@@ -9,7 +9,7 @@ public class Prueba {
     public Prueba() {
     }
 
-    static String hello(){
+    public static String hello(){
         return "HELLO WORLD!";
     }
 }
