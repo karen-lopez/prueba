@@ -15,7 +15,7 @@
         <repository>
             <id>github</id>
             <name>prueba2</name>
-            <url>https://maven.pkg.github.com/karen-lopez/prueba/prueba2</url>
+            <url>https://maven.pkg.github.com/karen-lopez/prueba</url>
         </repository>
     </distributionManagement>
 </project>
